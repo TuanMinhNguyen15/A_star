@@ -68,6 +68,7 @@ F -> E
 Continue? [y/n]: y
 E
 Continue? [y/n]: y
+GOAL IS REACHED!!! Restart? [y/n]: n
 ```
 
 
