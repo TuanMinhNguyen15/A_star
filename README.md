@@ -28,6 +28,8 @@ The A* algorithm here serves as a global path planner which provides a robot wit
 
 *Sample Cases:*
 
+Results are from terminal window.
+
 1/ Case 1
 ```
 Enter start node: A
