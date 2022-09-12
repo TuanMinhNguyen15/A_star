@@ -12,3 +12,6 @@ For example,
 
 
 **Caveat:** 
+
+
+![alt text](https://github.com/TuanMinhNguyen15/A_star/raw/main/images/demo_graph.PNG)
