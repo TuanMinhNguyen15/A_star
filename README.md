@@ -8,6 +8,7 @@ For this project, the graph is interpreted as a road network for mobile robots i
 
 For example, 
 
+![alt text](https://github.com/TuanMinhNguyen15/A_star/raw/main/images/exmaple_graph.png)
 
 
 **Caveat:** 
